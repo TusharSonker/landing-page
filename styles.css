@@ -1,0 +1,46 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.first-sec {
+  background-color: #1F2937;
+  color: white;
+  padding-bottom: 60px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 8px;
+  margin-bottom: 60px;
+}
+
+.right-links {
+  display: flex;
+  gap: 15px;
+}
+
+.start {
+  display: flex;
+  justify-content: space-around;
+}
+
+.button {
+  border-radius: 5px;
+  padding: 5px 20px;
+  background-color: #3882F6;
+  color: white;
+  font-weight: 600;
+  border: none;
+}
+
+.first-line-half,
+.second-line-half {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.fifth-line-half {
+  margin-bottom: 10px;
+}
